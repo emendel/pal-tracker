@@ -5,5 +5,5 @@ applications:
     routes:
       - route: pal-tracker-${ezra-mendelson}.$(apps.evans.pal.pivotal.io}
     env:
-      WELCOME_MESSAGE: Hello from the review environment
+      WELCOME_MESSAGE: Hello from the revie environment
       JBP_CONFIG_OPEN_JDK_JRE: '{ jre: { version: 11.+ } }'
